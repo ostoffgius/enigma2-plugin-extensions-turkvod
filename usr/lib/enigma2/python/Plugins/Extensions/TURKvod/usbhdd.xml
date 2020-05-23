@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<items>
+    <playlist_name><![CDATA[TURKvod]]></playlist_name>
+
+	 <channel>       
+		 <title>USB</title>
+		 <logo_30x30></logo_30x30>
+		 <description><![CDATA[<img src="usb.png">USB deki xml dosyaları çalıştırın.]]></description>
+		 <playlist_url><![CDATA[USB]]></playlist_url>
+	 </channel>
+	 
+	 <channel>       
+		 <title>HDD</title>
+		 <logo_30x30></logo_30x30>
+		 <description><![CDATA[<img src="hdd.png">USB deki xml dosyaları çalıştırın.]]></description>
+		 <playlist_url><![CDATA[HDD]]></playlist_url>
+	 </channel>
+
+</items>
+
